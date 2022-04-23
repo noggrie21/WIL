@@ -1,0 +1,56 @@
+# 	Python
+
+- Indentation  들여쓰기
+- Variable  변수
+  - 사전적 의미는 가변적인
+  - 컴퓨터 메모리 어딘가에 저장되어 있는 객체를 참조하기 위해 사용되는 이름
+- Iterable (처리, 절차를) 반복할 수 있는
+  - iteration `n`(계산, 컴퓨터 처리 절차의) 반복
+  - iterator `n`반복자(객체 지향적 프로그래밍에서 배열이나 그와 유사한 자료 구조의 내부 요소를 순회하는 객체)
+- Immutable 불변의, 변경할 수 없는
+  - mutate `v`돌연변이가 되다, (새로운 형태로) 변형되다.
+  - mutation `n`돌연변이, (형태, 구조상의) 변화, 변형
+- Interpolation 써넣음, 써넣는 어구
+- Object 숫자, 문자, 클래스 등 값을 가지고 있는 모든 것
+- Comment  주석
+- Data type 자료형
+- Container 여러 개의 값(자료)이 담겨져 있는 것
+- Typecasting 자료형 변환
+  - Implicit typecasting 암시적 형 변환
+  - Explicit typecasting 명시적 형 변환
+- Operator 연산자
+- prefix 접두사
+- suffix 접미사
+- error prone 실수를 범하기 쉬운
+  - prone `a` -하기 쉬운
+- attribute 속성
+- trail 쫓다
+- generic 포괄적인, 총칭의/ 일반 명칭으로 판매되는
+  - generic programming : 데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터 타입들을 가질 수 있는 기술에 중점을 두어 재사용성을 높일 수 있는 프로그래밍 방식
+- assignment statements 대입문, 할당 선언
+- collection 컨테이너 데이터형
+- delimiter 구분 문자
+- omitted 생략
+- implementation 구현
+- retrieve 찾아서 물어 오다
+- implicitly 암묵적으로
+- execute 실행하다
+- debugging 디버깅
+- ambiguous 모호한
+  - unambiguous 모호하지 않은, 명확한
+- information-rich 정보가 풍부한
+- finalizer 종결자
+- derived 파생된, 유래된
+- class 분류
+- parsing 구분 분석
+  - 구분 분석 또는 `파싱`은 문장을 그것을 이루고 있는 구성 성분으로 분해하고 그들 사이의 위계 관계를 분석하여 이 문장의 구조를 결정하는 것을 말함
+- literal 정확한 (소스 코드의 고정된 값을 대표하는 용어), 변하지 않는 고유값
+  - <=> 고정된 값을 가질 수 있는 변수, 변경되지 않는 상수
+- source code  = 원시코드(컴퓨터 프로그램을 사람이 읽을 수 있는 프로그래밍 언어로 기술한 텍스트 파일)
+- interpreter 해석기
+- compile (여러 출처에서 자료를 따와) 엮다, 편찬하다/ 명령어를 번여(컴파일)하다
+  - 주어진 language로 작성된 컴퓨터 프로그램을 다른 언어의 동등한 프로그램으로 변환하는 프로세스
+- prompt `a`즉각적인 `v`촉발하다, (힌트 등을 주어 말을 하도록) 유도하다
+  - 프롬프트(운영 체제에서 사용에게 보내지는 메시지)
+- comment 주석
+- be compatible with ~와 호환되다
