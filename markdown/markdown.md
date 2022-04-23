@@ -210,7 +210,7 @@
    - 결과
 
      Git 로고입니다.
-     ![Git로고](day1_markdown.assets/logo@2x.png)
+     ![Git로고](markdown.assets/logo@2x.png)
 
 7. 인용 (Blockquote)
 
