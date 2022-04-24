@@ -54,3 +54,4 @@
   - 프롬프트(운영 체제에서 사용에게 보내지는 메시지)
 - comment 주석
 - be compatible with ~와 호환되다
+- exponentiation 거듭제곱, 지수(=power)
